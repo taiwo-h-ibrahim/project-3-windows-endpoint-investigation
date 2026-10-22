@@ -161,4 +161,8 @@ All testing was conducted in a controlled virtual lab using systems configured f
 
 Effective endpoint investigation requires more than collecting logs. Analysts must interpret event fields, correlate observations with known activity, validate alerting separately from ingestion, and clearly document limitations.
 
+## Author
 
+**Taiwo H Ibrahim**
+
+Cybersecurity | Endpoint Security | Security Operations
